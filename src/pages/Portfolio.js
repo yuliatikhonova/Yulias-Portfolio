@@ -9,25 +9,32 @@ import Image6 from "../images/TukTuk.png";
 const styles = {
     box: {
       margin: 30,
-      background: "#e8eaf6"
+      background: "black"
     },
     projects: {
         margin: 30
     },
     img: {
         width: 600
+    },
+    title: {
+        textAlign: "center",
+        fontSize: 100,
+        color: "#c9c9c9"
     }
 
   };
 
 function Portfolio() {
     return (
+        <div>
+            <br />
+            <p style={styles.title}>Portfolio</p>
+
         <div  style={styles.box}>
             <div className="row">
                 <div className="col-md">
                     <article className="block">
-                        <h1>Portfolio</h1>
-                        <hr />
                         <div className="row">
                             <div className="col-sm col-md col-lg" style={styles.box}>
                                 <h4 className='imgTittle'>Coding Quiz</h4>
@@ -66,7 +73,7 @@ function Portfolio() {
 
                         <div className="row">
                             <div className="col-sm col-md col-lg" style={styles.box}>
-                                <h4 className='imgTittle'>Employee Summery using Node</h4>
+                                <h4 className='imgTittle'>Employee Summary using Node</h4>
                                 <img src={Image5} style={styles.img} className="img-fluid port-image" alt="Employee Summery"></img>
                                 <a href="https://github.com/yuliatikhonova/HW-10-Template-Engine" target="_blank">Link to GitHub Repo</a>
                             </div>
@@ -83,6 +90,7 @@ function Portfolio() {
                     </article>
                 </div>
                 </div>
+            </div>
             </div>
     )
 }

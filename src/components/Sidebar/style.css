@@ -28,6 +28,11 @@ img {
     border-radius: 6px;
     box-shadow: 4px 4px 4px 4px white;
 }
+ 
+.links {
+    font-size: 25px;
+
+}
 
 hr {
     background: rgb(214,214,214);

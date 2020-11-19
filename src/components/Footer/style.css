@@ -1,0 +1,13 @@
+.page-footer {
+    text-align: center;
+    background-color: black;
+    color: gray;
+    min-width: 100vw;
+}
+
+.line {
+    height: 6px;
+    padding-top: 3px;
+    background-image: black;
+}
+

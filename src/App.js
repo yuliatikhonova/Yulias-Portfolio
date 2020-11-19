@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="container-fluid">
       <Sidebar />
-
+      
       <div className="main">
         <Router>
           <Navbar />
@@ -33,7 +33,7 @@ function App() {
           </Switch>
         </Router>
       </div>
-
+      
       <Footer />
     </div>
   );

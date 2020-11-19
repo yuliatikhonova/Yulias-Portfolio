@@ -1,13 +1,17 @@
 .page-footer {
+    position: fixed;
+    left: 0;
+    height: 33px;
+    bottom: 0;
+    width: 100%;
     text-align: center;
     background-color: black;
-    color: gray;
-    min-width: 100vw;
+    color: lightgray;
 }
 
 .line {
     height: 6px;
     padding-top: 3px;
-    background-image: black;
+    background-image: white;
 }
 

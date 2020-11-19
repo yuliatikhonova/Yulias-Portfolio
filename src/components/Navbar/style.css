@@ -1,4 +1,5 @@
 nav.navbar.navbar-default {
   margin-bottom: 0;
   text-align: center;
+  max-width: 100vw;
 }

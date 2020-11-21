@@ -19,12 +19,12 @@ function Sidebar() {
                 <br />
                 <h4>Find me on</h4>
                 <div className="links">
-                <a href="https://github.com/yuliatikhonova" target="_blank" className="text-white mr-3">
-                    <i className="fab fa-github"></i>
-                </a>
-                <a href="https://www.linkedin.com/in/yulia-tikhonova-ab7b7552" target="_blank" className="text-white">
-                    <i className="fab fa-linkedin"></i>
-                </a>
+                    <a href="https://github.com/yuliatikhonova" target="_blank" className="text-white mr-3">
+                        <i className="fab fa-github"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/in/yulia-tikhonova-ab7b7552" target="_blank" className="text-white">
+                        <i className="fab fa-linkedin"></i>
+                    </a>
                 </div>
                 <br /><br />
                 <hr />

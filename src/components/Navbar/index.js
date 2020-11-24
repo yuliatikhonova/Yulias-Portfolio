@@ -12,7 +12,7 @@ function Navbar() {
             <Link
               to="/"
               className={
-                window.location.pathname === "/"
+                window.location.pathname === "Yulias-Portfolio/"
                   ? "nav-link active"
                   : "nav-link"
               }
@@ -24,7 +24,7 @@ function Navbar() {
             <Link
               to="/about"
               className={
-                window.location.pathname === "/about "
+                window.location.pathname === "Yulias-Portfolio/about "
                   ? "nav-link active"
                   : "nav-link"
               }
@@ -35,7 +35,7 @@ function Navbar() {
           <li className="nav-item">
             <Link
               to="/portfolio"
-              className={window.location.pathname === "/portfolio"
+              className={window.location.pathname === "Yulias-Portfolio/portfolio"
                 ? "nav-link active"
                 : "nav-link"}
             >

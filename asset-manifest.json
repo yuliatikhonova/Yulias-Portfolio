@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Yulias-Portfolio/static/css/main.d40d3d45.chunk.css",
-    "main.js": "/Yulias-Portfolio/static/js/main.f810ecb5.chunk.js",
-    "main.js.map": "/Yulias-Portfolio/static/js/main.f810ecb5.chunk.js.map",
+    "main.js": "/Yulias-Portfolio/static/js/main.f657ed4a.chunk.js",
+    "main.js.map": "/Yulias-Portfolio/static/js/main.f657ed4a.chunk.js.map",
     "runtime-main.js": "/Yulias-Portfolio/static/js/runtime-main.130d66f8.js",
     "runtime-main.js.map": "/Yulias-Portfolio/static/js/runtime-main.130d66f8.js.map",
     "static/css/2.3c1c8673.chunk.css": "/Yulias-Portfolio/static/css/2.3c1c8673.chunk.css",
     "static/js/2.33fb6d52.chunk.js": "/Yulias-Portfolio/static/js/2.33fb6d52.chunk.js",
     "static/js/2.33fb6d52.chunk.js.map": "/Yulias-Portfolio/static/js/2.33fb6d52.chunk.js.map",
     "index.html": "/Yulias-Portfolio/index.html",
-    "precache-manifest.81e7f62ea3756e95f1f9009ecadb6a82.js": "/Yulias-Portfolio/precache-manifest.81e7f62ea3756e95f1f9009ecadb6a82.js",
+    "precache-manifest.9efe487737202e7a01c5185f443064fb.js": "/Yulias-Portfolio/precache-manifest.9efe487737202e7a01c5185f443064fb.js",
     "service-worker.js": "/Yulias-Portfolio/service-worker.js",
     "static/css/2.3c1c8673.chunk.css.map": "/Yulias-Portfolio/static/css/2.3c1c8673.chunk.css.map",
     "static/css/main.d40d3d45.chunk.css.map": "/Yulias-Portfolio/static/css/main.d40d3d45.chunk.css.map",
@@ -27,6 +27,6 @@
     "static/css/2.3c1c8673.chunk.css",
     "static/js/2.33fb6d52.chunk.js",
     "static/css/main.d40d3d45.chunk.css",
-    "static/js/main.f810ecb5.chunk.js"
+    "static/js/main.f657ed4a.chunk.js"
   ]
 }

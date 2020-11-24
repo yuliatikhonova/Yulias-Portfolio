@@ -23,10 +23,10 @@ function App() {
               <Route exact path= {process.env.PUBLIC_URL + '/'}>
                 <Home />
               </Route>
-              <Route exact path='/about'>
+              <Route exact path={process.env.PUBLIC_URL + '/about'}>
                 <About />
               </Route>
-              <Route exact path='/portfolio'>
+              <Route exact path={process.env.PUBLIC_URL + '/portfolio'}>
                 <Portfolio />
               </Route>
             </Wrapper>

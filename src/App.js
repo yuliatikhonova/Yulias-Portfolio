@@ -20,7 +20,7 @@ function App() {
           <br />
           <Switch>
             <Wrapper>
-              <Route exact path="/">
+              <Route exact path= {process.env.PUBLIC_URL + '/'}>
                 <Home />
               </Route>
               <Route exact path="/about">

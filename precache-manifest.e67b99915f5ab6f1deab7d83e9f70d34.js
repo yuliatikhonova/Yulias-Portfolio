@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b26fc3e0f35dfbcfb682e9951a8396b",
+    "revision": "8bfcfba0d7c1fe4f1c8f3c5bb30233f8",
     "url": "/Yulias-Portfolio/index.html"
   },
   {
-    "revision": "23afc5fa8ce7640f3dae",
+    "revision": "f9e2b18f9d4fc6ee2c5d",
     "url": "/Yulias-Portfolio/static/css/2.3c1c8673.chunk.css"
   },
   {
-    "revision": "ef251e08cc11fa2f8efc",
-    "url": "/Yulias-Portfolio/static/css/main.d40d3d45.chunk.css"
+    "revision": "968cd64b2ebabbe931dc",
+    "url": "/Yulias-Portfolio/static/css/main.acdf8130.chunk.css"
   },
   {
-    "revision": "23afc5fa8ce7640f3dae",
-    "url": "/Yulias-Portfolio/static/js/2.33fb6d52.chunk.js"
+    "revision": "f9e2b18f9d4fc6ee2c5d",
+    "url": "/Yulias-Portfolio/static/js/2.1a3c09e9.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Yulias-Portfolio/static/js/2.33fb6d52.chunk.js.LICENSE.txt"
+    "url": "/Yulias-Portfolio/static/js/2.1a3c09e9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ef251e08cc11fa2f8efc",
-    "url": "/Yulias-Portfolio/static/js/main.f657ed4a.chunk.js"
+    "revision": "968cd64b2ebabbe931dc",
+    "url": "/Yulias-Portfolio/static/js/main.bc13870b.chunk.js"
   },
   {
     "revision": "9d6e2ebbdf61d085afbb",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d5fcc8caaa83900a03394b323ee06251",
     "url": "/Yulias-Portfolio/static/media/Code Quiz.d5fcc8ca.png"
+  },
+  {
+    "revision": "c095c2bfe71018bc12b56a2b841e1164",
+    "url": "/Yulias-Portfolio/static/media/Handcrafted Heirloom.c095c2bf.png"
   },
   {
     "revision": "20e486c822ae656661d91f209fffe1dc",
@@ -50,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e842cae2dd0cd4b63941cfc35e05081a",
     "url": "/Yulias-Portfolio/static/media/Work Day Scheduler.e842cae2.png"
+  },
+  {
+    "revision": "3180548d188024b8489544de1caa595a",
+    "url": "/Yulias-Portfolio/static/media/emp directory.3180548d.png"
   },
   {
     "revision": "085b1dd8427dbeff10bd55410915a3f6",
